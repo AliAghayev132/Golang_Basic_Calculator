@@ -8,7 +8,7 @@ func main() {
 
 	for true {
 		var a, b, result int
-		c := "+"
+		var c string
 		print("\n1-ci ədədi daxil edin: ")
 		fmt.Scan(&a)
 		print("2-ci ədədi daxil edin: ")
